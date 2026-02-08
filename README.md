@@ -41,4 +41,21 @@ It can be used by manufacturing companies, print solution providers, or industri
 ---
 
 ## 📂 Project Structure
+├── index.html
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+├── images/
+│ └── (all website images)
+└── README.md
+
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone this repository:
+   ```bash
+   git clone https://anamv007.github.io/industrialprint-portfolio/index.html
 
