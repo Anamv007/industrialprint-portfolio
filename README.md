@@ -8,7 +8,7 @@ This project is hosted live using **GitHub Pages**.
 ## 🌐 Live Demo
 
 👉 **Website URL:**  
-](https://anamv007.github.io/industrialprint-portfolio/index.html)
+https://anamv007.github.io/industrialprint-portfolio/index.html
 
 ---
 
